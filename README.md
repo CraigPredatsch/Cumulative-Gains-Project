@@ -3,7 +3,7 @@ Project to show benefit to show the benefit of directing costly marketing effort
 
 This project takes a set of data that shows wine sale history among a set of customers, and analyzes which customers will be more likely purchase a case of a new type of wine after being sent a sample bottle.
 
-The R code reads the data set and creates a logistic regression to identify the statistical significance of each data point we have on our customers. The script uses this regression to determine the probability that each customer purchases a case of wine.
+The R code (Cumulative Gains Example.R) reads the data set and creates a logistic regression to identify the statistical significance of each data point we have on our customers. The script uses this regression to determine the probability that each customer purchases a case of wine.
 
 From here, the script sorts the customers into deciles based on their purchase probabilities, outputs a graph of these deciles, and outputs the total customers per decile, number of buyers in each decile, and the purchase rate of each decile.
 
