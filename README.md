@@ -1,5 +1,5 @@
 # Cumulative-Gains-Project
-Project to show benefit to show the benefit of identifying the more likely buyers of a product that has a marketing cost attached to it.
+Project to show benefit to show the benefit of directing costly marketing efforts to increase profitability and ROI.
 
 This project takes a set of data that shows wine sale history among a set of customers, and analyzes which customers will be more likely purchase a case of a new type of wine after being sent a sample bottle.
 
