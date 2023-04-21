@@ -5,7 +5,7 @@ This project takes a set of data that shows wine sale history among a set of cus
 
 The R code (Cumulative Gains Example.R) reads the data set and creates a logistic regression to identify the statistical significance of each data point we have on our customers. The script uses this regression to determine the probability that each customer purchases a case of wine.
 
-From here, the script sorts the customers into deciles based on their purchase probabilities, outputs a graph of these deciles, and outputs the total customers per decile, number of buyers in each decile, and the purchase rate of each decile.
+From here, the script sorts the customers into deciles based on their purchase probabilities, outputs a graph of these deciles, and outputs the total customers per decile, number of buyers in each decile, and the purchase rate of each decile (Response Rate Decile Data.PNG).
 
 Next, this information is added into Excel to find the lift and gains to targeting each decile grouping.
 
