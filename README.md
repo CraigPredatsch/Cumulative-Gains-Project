@@ -11,7 +11,7 @@ Next, this information is added into Excel to find the lift and gains to targeti
 
 Individual response rates, lifts, and gains are calculated for each decile, and then cumulative lifts and gains are calculated for each decile including all deciles below it (ex: cumulative gains for 40% is the cumulative gain for the top 40% likely to buy customers).
 
-Charts for cumulative lift and gains are created in Excel and shown here.
+Charts for cumulative lift and gains are created in Excel and shown here (Cumulative Lift Plot.PNG, Cumulative Gains Plot.PNG).
 
 If the cost of the marketing promotion, cost of service, and total revenue are known, then the breakeven percentage can be found by dividing promotion costs by the sales margin (revenue - costs). Going back to the R code, I assumed a promotion cost of $25 and a sales margin of $500. This means the breakeven percentage = 25/500 = 5%.
 
