@@ -25,6 +25,6 @@ ROI is caluclated by dividing profit by (promotion costs * number of customers a
 
 Finally, the script finds the profit and ROI of offering the promotion to the entire dataset.
 
-The Profit_ROI image shows that by offering the promotion to the entire dataset of customers, we have profitability of $758,500 at an ROI of 75.85%, but if we target customers who have a purchase probability greater than the breakeven percentage the profitability is $1,010,132 with an ROI of 198.73%. 
+The Profit_ROI image shows that by offering the promotion to the entire dataset of customers, we have profitability of $758,500 at an ROI of 75.85%, but if we target customers who have a purchase probability greater than the breakeven percentage the profitability is $1,010,132 with an ROI of 198.73%. (See Profit_ROI.PNG) 
 
 This is a massive improvement and shows the value in using logistic regressions to find purchase probability of a customer base when running promotions that have a cost to them. If costs/margins are unknown, there is still value in finding the cumulative gains / cumulative lift of the deciles of a data set and visually having an idea of where you gain the majority of your value when promoting a sale to your customer base.
